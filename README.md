@@ -24,7 +24,7 @@ Este projeto está sendo desenvolvido por uma equipe dedicada para o Hackathon A
 - [Miguel de Azevedo Ferreira](https://github.com/miguelferreiraZ)
 - [Márcio Melchiades Nascimento](https://github.com/marciomn01)
 - [Mariana Fonseca](https://github.com/fonsecamc)
-- Lucas Luis Carreiro de Andrade
+- [Lucas Luis Carreiro de Andrade](https://github.com/luucasluuis)
 
 ## **Como Funciona**
 1. O consumidor escaneia o QR Code único presente na embalagem do produto.
